@@ -1,0 +1,16 @@
+PODS:
+  - ACKTheme (0.1.0)
+
+DEPENDENCIES:
+  - ACKTheme (from `../`)
+
+EXTERNAL SOURCES:
+  ACKTheme:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ACKTheme: 3d4e33836fd7b5879ef798f6574f31cf77da6644
+
+PODFILE CHECKSUM: 13f279f6a7bc4cf08b5fbeb3443c289d15720026
+
+COCOAPODS: 1.9.3

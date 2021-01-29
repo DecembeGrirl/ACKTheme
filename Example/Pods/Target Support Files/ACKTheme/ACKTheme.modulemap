@@ -1,0 +1,6 @@
+framework module ACKTheme {
+  umbrella header "ACKTheme-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ACKTheme",
+  "version": "0.1.0",
+  "summary": "A short description of ACKTheme.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/893833976@qq.com/ACKTheme",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "893833976@qq.com": "yangshuyuan@kkworld.com"
+  },
+  "source": {
+    "git": "https://github.com/893833976@qq.com/ACKTheme.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ACKTheme/Classes/**/*"
+}
